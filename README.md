@@ -3,7 +3,7 @@ Starter Template ini dapat anda gunakan untuk memulai project pada video tutoria
 
 
 ## Template Shayna
-![Alt text](../../dashboard-image.jpg "Dashboard image")
+![Alt text](dashboard-image.jpg "Dashboard image")
 
 
 ## Lisensi
